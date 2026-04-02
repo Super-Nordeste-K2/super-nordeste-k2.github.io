@@ -51,7 +51,6 @@
     }
   ],
   "categorias": [
-    { "peso": "60",   "unidade": "kg", "tipo": "open" },
     { "peso": "70",   "unidade": "kg", "tipo": "open" },
     { "peso": "80",   "unidade": "kg", "tipo": "open" },
     { "peso": "90",   "unidade": "kg", "tipo": "open" },
