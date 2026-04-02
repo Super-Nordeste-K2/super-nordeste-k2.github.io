@@ -1,0 +1,73 @@
+{
+  "site": {
+    "titulo": "Super Nordeste K2",
+    "descricao": "O maior campeonato de arm wrestling do Nordeste. Categorias abertas e iniciante, com desafios valendo cinturão.",
+    "instagram": "@k2supernordeste",
+    "whatsapp": "5574988023960"
+  },
+  "evento": {
+    "data": "11 de Abril de 2025",
+    "cidade": "Bayeux / João Pessoa — PB",
+    "bairro": "Mário Andreazza",
+    "logradouro": "Rua Francisco Pedro de Andrade",
+    "destaque": "4 desafios valendo cinturão",
+    "organizacao": "K2 Super Nordeste"
+  },
+  "hero": {
+    "pill": "11 de Abril · Bayeux, Paraíba",
+    "titulo_linha1": "Super Nordeste",
+    "titulo_linha2": "K2",
+    "stats": [
+      { "valor": "8",      "label": "Categorias" },
+      { "valor": "4",      "label": "Cinturões em jogo" },
+      { "valor": "R$100",  "label": "Inscrição" },
+      { "valor": "11 Abr", "label": "Data" }
+    ]
+  },
+  "lutas": [
+    {
+      "destaque": true,
+      "lutador1": { "nome": "Adriano",   "estado": "Paraíba", "tag": "Representante PB" },
+      "lutador2": { "nome": "Erisvaldo", "estado": "Sergipe", "tag": "Representante SE" },
+      "cinturao": true
+    },
+    {
+      "destaque": false,
+      "lutador1": { "nome": "A definir", "estado": "Nordeste", "tag": "" },
+      "lutador2": { "nome": "A definir", "estado": "Nordeste", "tag": "" },
+      "cinturao": true
+    },
+    {
+      "destaque": false,
+      "lutador1": { "nome": "A definir", "estado": "Nordeste", "tag": "" },
+      "lutador2": { "nome": "A definir", "estado": "Nordeste", "tag": "" },
+      "cinturao": true
+    },
+    {
+      "destaque": false,
+      "lutador1": { "nome": "A definir", "estado": "Nordeste", "tag": "" },
+      "lutador2": { "nome": "A definir", "estado": "Nordeste", "tag": "" },
+      "cinturao": true
+    }
+  ],
+  "categorias": [
+    { "peso": "60",   "unidade": "kg", "tipo": "open" },
+    { "peso": "70",   "unidade": "kg", "tipo": "open" },
+    { "peso": "80",   "unidade": "kg", "tipo": "open" },
+    { "peso": "90",   "unidade": "kg", "tipo": "open" },
+    { "peso": "100",  "unidade": "kg", "tipo": "open" },
+    { "peso": "+100", "unidade": "kg", "tipo": "open" },
+    { "peso": "80",   "unidade": "kg", "tipo": "iniciante" },
+    { "peso": "90",   "unidade": "kg", "tipo": "iniciante" }
+  ],
+  "inscricao": {
+    "valor": "R$100",
+    "nota": "Pagamento confirmado no ato",
+    "perks": [
+      "Competição em categoria open ou iniciante",
+      "Possibilidade de disputar o cinturão",
+      "Vagas limitadas — inscreva-se já"
+    ],
+    "mensagem_whatsapp": "Olá! Quero me inscrever no Super Nordeste K2.\n\n*Nome:* {nome}\n*WhatsApp:* {whatsapp}\n*Cidade/Estado:* {cidade}\n*Peso:* {peso} kg\n*Categoria:* {categoria}\n*Braço:* {braco}"
+  }
+}
